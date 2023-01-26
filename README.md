@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luan 👋
 
 - 🔭 Sou um programador Front-End
-- 🌱 Estou estudando React
+- 🌱 Estou estudando Node.JS
 - 📧 Contate-me no email: luan.gomesdv@gmail.com
 
 <div>
@@ -14,6 +14,8 @@
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luan-MongoDB" height="40" width="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Luan-NodeJS" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/> 
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
 
