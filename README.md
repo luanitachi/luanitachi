@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luan 👋
 
 - 🔭 Sou um programador Front-End
-- 🌱 Estou estudando Node.JS
+- 🌱 Estou estudando Node.JS // React
 - 📧 Contate-me no email: luan.gomesdv@gmail.com
 
 <div>
