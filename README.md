@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luan 👋
 
 - 🔭 Sou um programador Full-Stack
-- 🌱 Estou estudando Node.JS // React
+- 🌱 Estou estudando TypeScript
 - 📧 Contate-me no email: luan.gomesdv@gmail.com
 
 <div>
