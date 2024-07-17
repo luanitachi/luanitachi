@@ -10,12 +10,15 @@
   <img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luangomesg&layout=compact&langs_count=7&theme=radical"/>
 </div> 
   <div style="display: inline_block"><br>
-   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luan-MongoDB" height="40" width="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Luan-NodeJS" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/> 
+   <img align="center" alt="Luan-HTML" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
+  <img align="center" alt="Luan-CSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
+  <img align="center" alt="Luan-Js" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+  <img align="center" alt="Luan-Ts" height="40" width="40"src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg"/> 
+  <img align="center" alt="Luan-React" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
+  <img align="center" alt="Luan-NodeJS" height="40" width="40"src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg"/>
+  <img align="center" alt="Luan-MongoDB" height="40" width="40"src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MongoDB.svg"/> 
+  <img align="center" alt="Luan-MongoDB" height="40" width="40"src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg"/> 
+  <img align="center" alt="Luan-Docker" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
 
