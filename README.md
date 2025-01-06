@@ -1,8 +1,8 @@
-### Olá! Eu sou o Luan 👋
+### Hello! I'm Luan 👋
 
-- 🔭 Sou um programador Full-Stack
-- 🌱 Estou estudando TypeScript
-- 📧 Contate-me no email: luan.gomesdv@gmail.com
+- 🌱 I’m currently learning -> Next.js / Typescript
+- 📫 How to reach me -> reach me at the following email: luan.gomesdv@gmail.com
+- 💼 I'm currently looking for work
 
 <div>
   <a href="https://github.com/luangomesg">
